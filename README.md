@@ -407,7 +407,7 @@ This project demonstrates:
 ---
 **(Repository of Dibyajyoti Swain-1000068)**
 # Capstone Project By,
-Aryan Saamal & Dibyajyoti Swain
+Dibyajyoti Swain
 AI Cultural Tourism Insights & Engagement Platform
 IBCP (CRS-Artificial Intelligence)
 
